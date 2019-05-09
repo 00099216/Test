@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.module.css"],"names":[],"mappings":"AAAA,EACE,SAAU,CACV,QACF,CAGA,IACE,WAAY,CACZ,YACF","file":"main.39144165.chunk.css","sourcesContent":["*{\r\n  padding: 0;\r\n  margin: 0;\r\n}\r\n\r\n\r\nimg{\r\n  width: 100vw;\r\n  height: 100vh;\r\n}"]}
